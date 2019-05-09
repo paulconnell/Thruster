@@ -3,7 +3,8 @@
     "version": "0.0.0",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "pxt-game-math": "workspace:7dea6667-a48d-49c7-4e76-d8dab6c30136"
     },
     "files": [
         "README.md",
@@ -13,5 +14,5 @@
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "preferredEditor": "tsprj"
 }
